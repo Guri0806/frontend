@@ -1,0 +1,33 @@
+.aa{
+background-color: rgb(255, 160, 93);
+border-radius: 20px;
+}
+.guri{
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ss{
+    margin-top: 100px;
+}
+.gg{
+    font-size: 20px;
+}
+.rr{
+    padding: 20px;
+    border-radius: 20px;
+    width: 200px;
+    background-color: rgb(255, 160, 93);
+}
+.ggg{
+    background-color: burlywood;
+}
+.eee{
+    float: right;
+    font-size: 40px;
+}
+.dd{
+    padding: 20px;
+    border-radius: 30px;
+    width: 300px;
+    background-color: rgb(255, 160, 93);
+}
